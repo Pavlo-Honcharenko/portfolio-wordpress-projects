@@ -1,6 +1,6 @@
-# Vlad Kytsia – WordPress Developer Portfolio
+# Pavlo Honcharenko – WordPress Developer Portfolio
 
-Hi! My name is Vlad, and I am a Front-End and WordPress Developer specializing in custom theme development, Figma-to-WordPress integration, Gutenberg blocks, custom Gutenberg block development, ACF structures, multilingual websites, and performance-optimized landing pages.
+Hi! My name is Pavlo, and I am a Front-End and WordPress Developer specializing in custom theme development, Figma-to-WordPress integration, Gutenberg blocks, custom Gutenberg block development, ACF structures, multilingual websites, and performance-optimized landing pages.
 
 This portfolio includes selected commercial projects delivered for international clients.
 
@@ -13,42 +13,36 @@ This portfolio includes selected commercial projects delivered for international
 - Figma → WordPress specialist  
 - Experience with multilingual and RTL websites  
 - Strong experience with hosting migration, security setup, optimization, and QA  
-- Focused on clean, scalable, and high-performance WordPress solutions  
+- Focused on clean, scalable, and high-performance WordPress solutions
+- Reliable backup & security implementation (UpdraftPlus, Wordfence).
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🔹 **LDVILL – Custom WordPress Theme (Figma → HTML → WP)**
-**Repo:** [ldvill-wordpress-project](https://github.com/vlad-kytsia/ldvill-wordpress-project)  
+**Repo:** [ldvill-wordpress-project](https://github.com/Pavlo-Honcharenko/ldvill-wordpress-project)  
 **Live site:** https://ldvill.com/  
 A custom WordPress theme developed from a full Figma design. Includes ACF integration, custom PHP templates, animations, and a fully responsive layout.
 
 ---
 
 ### 🔹 **ConnectABA – ADA & WCAG Accessible WordPress Website**
-**Repo:** [connectaba-wordpress-project](https://github.com/vlad-kytsia/connectaba-wordpress-project)  
+**Repo:** [connectaba-wordpress-project](https://github.com/Pavlo-Honcharenko/connectaba-wordpress-project)  
 **Live site:** https://connectaba.org/  
 An accessibility-focused WordPress website meeting ADA and WCAG 2.1/2.2 requirements. Custom theme, Polylang, ACF, security setup, hosting migration.
 
 ---
 
 ### 🔹 **Autos On The Go – WordPress Multi-Page Website with Blog**
-**Repo:** [autosonthego-wordpress-project](https://github.com/vlad-kytsia/autosonthego-wordpress-project)  
+**Repo:** [autosonthego-wordpress-project](https://github.com/Pavlo-Honcharenko/autosonthego-wordpress-project)  
 **Live site:** https://www.autosonthego.com/  
 Custom WordPress multi-page website with a blog, built from scratch from a custom theme. Includes dynamic content via Custom Fields, custom Gutenberg elements and page template, Gravity Forms integration, Yoast SEO setup, and accessibility improvements. Fully responsive and content-ready. 
 
 ---
 
-### 🔹 **FlowMate – Custom Divi Development**
-**Repo:** [flowmate-wordpress-project](https://github.com/vlad-kytsia/flowmate-wordpress-project)  
-**Live site:** https://flowmate.io/  
-Creation of four custom pages with animations and navigation improvements on a Divi-based WordPress website.
-
----
-
 ### 🔹 **HasibPay – Multilingual Landing Page (EN + AR)**
-**Repo:** [hasibpay-wordpress-project](https://github.com/vlad-kytsia/hasibpay-wordpress-project)  
+**Repo:** [hasibpay-wordpress-project](https://github.com/Pavlo-Honcharenko/hasibpay-wordpress-project)  
 **Live site:** https://hasibpay.com/  
 A multilingual landing page built using the Astra theme and Gutenberg blocks. Includes RTL layout for Arabic, Polylang setup, Contact Form 7, and hosting/domain migration.
 
@@ -60,11 +54,11 @@ A multilingual landing page built using the Astra theme and Gutenberg blocks. In
 - Custom Themes  
 - Gutenberg blocks  
 - ACF Pro (Flexible Content, Options)  
-- Elementor / Divi  
+- Elementor  
 - Custom PHP templates  
 - Polylang / WPML  
 - Contact Form 7  
-- Security plugins (iThemes, Wordfence, Solid Security)
+- Security & Backups: Wordfence, UpdraftPlus
 
 ### **Front-End**
 - HTML5  
@@ -85,9 +79,9 @@ A multilingual landing page built using the Astra theme and Gutenberg blocks. In
 ## 📫 Contact
 If you want to collaborate or have questions about my work:
 
-- **Email:** kytsia.agency@gmail.com
-- **LinkedIn:** https://www.linkedin.com/company/kytsia-web-agency/
-- **GitHub:** https://github.com/vlad-kytsia
+- **Email:** pavlo.dev.pro@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/pavlo-honcharenko/
+- **GitHub:** https://github.com/Pavlo-Honcharenko/
 
 ---
 
