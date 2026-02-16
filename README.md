@@ -34,17 +34,17 @@ A custom WordPress theme developed from a full Figma design. Includes ACF integr
 
 ---
 
-### 🔹 **ConnectABA – ADA & WCAG Accessible WordPress Website**
-**Repo:** [connectaba-wordpress-project](https://github.com/Pavlo-Honcharenko/connectaba-wordpress-project)  
-**Live site:** https://connectaba.org/  
-An accessibility-focused WordPress website meeting ADA and WCAG 2.1/2.2 requirements. Custom theme, Polylang, ACF, security setup, hosting migration.
-
----
-
 ### 🔹 **Autos On The Go – WordPress Multi-Page Website with Blog**
 **Repo:** [autosonthego-wordpress-project](https://github.com/Pavlo-Honcharenko/autosonthego-wordpress-project)  
 **Live site:** https://www.autosonthego.com/  
 Custom WordPress multi-page website with a blog, built from scratch from a custom theme. Includes dynamic content via Custom Fields, custom Gutenberg elements and page template, Gravity Forms integration, Yoast SEO setup, and accessibility improvements. Fully responsive and content-ready. 
+
+---
+
+### 🔹 **ConnectABA – ADA & WCAG Accessible WordPress Website**
+**Repo:** [connectaba-wordpress-project](https://github.com/Pavlo-Honcharenko/connectaba-wordpress-project)  
+**Live site:** https://connectaba.org/  
+An accessibility-focused WordPress website meeting ADA and WCAG 2.1/2.2 requirements. Custom theme, Polylang, ACF, security setup, hosting migration.
 
 ---
 
