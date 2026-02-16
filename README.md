@@ -27,13 +27,6 @@ Real estate classifieds platform built on WordPress and ListingHive, featuring a
 
 ---
 
-### 🔹 **KYTSIAWEB – Custom WordPress Theme (Figma → HTML → WP)**
-**Repo:** [kytsiaweb-wordpress-project](https://github.com/Pavlo-Honcharenko/kytsiaweb-wordpress-project)  
-**Live site:** https://kytsiaweb.com.ua/
-Custom WordPress website for a web design agency, built from Figma with pixel-perfect front-end development and ACF-powered dynamic content integration.
-
----
-
 ### 🔹 **LDVILL – Custom WordPress Theme (Figma → HTML → WP)**
 **Repo:** [ldvill-wordpress-project](https://github.com/Pavlo-Honcharenko/ldvill-wordpress-project)  
 **Live site:** https://ldvill.com/  
@@ -52,6 +45,13 @@ An accessibility-focused WordPress website meeting ADA and WCAG 2.1/2.2 requirem
 **Repo:** [autosonthego-wordpress-project](https://github.com/Pavlo-Honcharenko/autosonthego-wordpress-project)  
 **Live site:** https://www.autosonthego.com/  
 Custom WordPress multi-page website with a blog, built from scratch from a custom theme. Includes dynamic content via Custom Fields, custom Gutenberg elements and page template, Gravity Forms integration, Yoast SEO setup, and accessibility improvements. Fully responsive and content-ready. 
+
+---
+
+### 🔹 **KYTSIAWEB – Custom WordPress Theme (Figma → HTML → WP)**
+**Repo:** [kytsiaweb-wordpress-project](https://github.com/Pavlo-Honcharenko/kytsiaweb-wordpress-project)  
+**Live site:** https://kytsiaweb.com.ua/
+Custom WordPress website for a web design agency, built from Figma with pixel-perfect front-end development and ACF-powered dynamic content integration.
 
 ---
 
