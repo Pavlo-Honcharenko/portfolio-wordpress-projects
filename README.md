@@ -8,7 +8,7 @@ This portfolio includes selected commercial projects delivered for international
 
 ## 🧑‍💻 About Me
 - 7+ years of commercial development experience  
-- WordPress Developer (custom themes, Gutenberg, custom Gutenberg blocks, ACF, Elementor, Divi)  
+- WordPress Developer (custom themes, ACF, Gutenberg, custom Gutenberg blocks)  
 - Front-End Developer (HTML5, CSS3, JavaScript, animations)  
 - Figma → WordPress specialist  
 - Experience with multilingual and RTL websites  
