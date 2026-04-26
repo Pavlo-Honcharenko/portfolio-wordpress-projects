@@ -1,4 +1,4 @@
-# Pavlo Honcharenko – WordPress Developer Portfolio
+# Front-End & WordPress │ Developer Portfolio
 
 Hi! My name is Pavlo, and I am a Front-End and WordPress Developer specializing in custom theme development, Figma-to-WordPress integration, Gutenberg blocks, custom Gutenberg block development, ACF structures, multilingual websites, and performance-optimized landing pages.
 
