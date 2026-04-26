@@ -7,7 +7,7 @@ This portfolio includes selected commercial projects delivered for international
 ---
 
 ## 🧑‍💻 About Me
-- 7+ years of commercial development experience  
+- 10+ years of commercial development experience (HTML/CSS/JS frontend since 2015, WordPress since 2022)
 - WordPress Developer (custom themes, ACF, Gutenberg, custom Gutenberg blocks)  
 - Front-End Developer (HTML5, CSS3, JavaScript, animations)  
 - Figma → WordPress specialist  
@@ -68,7 +68,6 @@ A multilingual landing page built using the Astra theme and Gutenberg blocks. In
 - Custom Themes  
 - Gutenberg blocks  
 - ACF Pro (Flexible Content, Options)  
-- Elementor  
 - Custom PHP templates  
 - Polylang / WPML  
 - Contact Form 7  
