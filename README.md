@@ -20,13 +20,6 @@ This portfolio includes selected commercial projects delivered for international
 
 ## 🏆 Featured Projects
 
-### 🔹 **NEAGENT – Ukrainian Real Estate Classifieds Platform**
-**Repo:** [neagent-wordpress-project](https://github.com/Pavlo-Honcharenko/neagent-wordpress-project)
-**Live site:** https://neagent.org.ua/  
-Real estate classifieds platform built on WordPress and ListingHive, featuring automated agency feed imports, custom Gutenberg blocks, 5,000+ SEO articles, and full-cycle development, administration, and optimization.
-
----
-
 ### 🔹 **LDVILL – Custom WordPress Theme (Figma → HTML → WP)**
 **Repo:** [ldvill-wordpress-project](https://github.com/Pavlo-Honcharenko/ldvill-wordpress-project)  
 **Live site:** https://ldvill.com/  
@@ -59,6 +52,13 @@ Custom WordPress website for a web design agency, built from Figma with pixel-pe
 **Repo:** [hasibpay-wordpress-project](https://github.com/Pavlo-Honcharenko/hasibpay-wordpress-project)  
 **Live site:** https://hasibpay.com/  
 A multilingual landing page built using the Astra theme and Gutenberg blocks. Includes RTL layout for Arabic, Polylang setup, Contact Form 7, and hosting/domain migration.
+
+---
+
+### 🔹 **NEAGENT – Ukrainian Real Estate Classifieds Platform**
+**Repo:** [neagent-wordpress-project](https://github.com/Pavlo-Honcharenko/neagent-wordpress-project)
+**Live site:** https://neagent.org.ua/  
+Real estate classifieds platform built on WordPress and ListingHive, featuring automated agency feed imports, custom Gutenberg blocks, 5,000+ SEO articles, and full-cycle development, administration, and optimization.
 
 ---
 
