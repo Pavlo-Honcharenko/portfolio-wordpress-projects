@@ -117,6 +117,7 @@ An in-house team needed front-end their developers could build on: not pages, bu
 A multi-page static site for a composer's rock opera, built in 2022 and running unchanged since. The audio player has a fully custom UI on top of the native audio element, with no player library. The bundle is BEM-structured CSS and vanilla JavaScript: no jQuery, React, Vue or Bootstrap, which anyone can verify in the source.
 
 #### 🔹 **Static Business Websites for a US Agency Partner**
+**Repo:** [nationalbridgedemolition-static-project](https://github.com/Pavlo-Honcharenko/nationalbridgedemolition-static-project)
 **Example:** https://nationalbridgedemolition.com/
 About 70 static sites for home services and construction businesses (demolition, refinishing, home additions, tree services and more), built with HTML, SCSS and JavaScript on Gulp, Vite and Webpack. The example above scored 90 for performance and 100 for SEO and best practices in Lighthouse desktop (September 2026).
 
