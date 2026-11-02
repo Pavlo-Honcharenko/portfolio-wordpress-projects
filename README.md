@@ -28,11 +28,29 @@ This portfolio includes selected commercial projects delivered for clients in th
 
 ## 🏆 Featured Projects
 
+### 🔹 **Stargo Facility Services – Bug Fixes on a Live Site**
+**Live site:** https://stargo-fs.de/
+A German cleaning company had four defects on a live WordPress site with a custom theme and real traffic. I cloned it from a full backup and traced each issue in the source. The carousel bug was real: a mousemove handler placed the prev and next buttons at the same coordinates, so Next permanently covered Prev. Also a logo with no retina source, a hero missing its trust block, and an image losing half its height to a fixed container. All four fixed and verified on desktop and mobile in one session; rated 5 stars, and a larger project followed.
+
+---
+
+### 🔹 **Hive Builders – Custom WordPress Theme from Figma for a Construction Company**
+**Live site:** https://hivebuilders.com/
+A commercial general contractor in San Jose, California, wanted their site on WordPress rather than locked into a no-code platform. Custom theme from scratch, no template and no jQuery: semantic HTML, BEM SCSS, a video hero, smooth-scroll navigation, a hexagon grid for 8 construction sectors and 6 service cards. Every text block is a labeled custom field. Mobile was built from its own Figma frame, not a stacked desktop. Yoast configured, deployed with domain and SSL.
+
+---
+
 ### 🔹 **NEAGENT – Real Estate Classifieds Platform + Hosting Migration**
 **Repo:** [neagent-wordpress-project](https://github.com/Pavlo-Honcharenko/neagent-wordpress-project)
 **Live site:** https://neagent.org.ua/
 Real estate classifieds platform built on WordPress and ListingHive, featuring automated agency feed imports, custom Gutenberg blocks, 5,000+ SEO articles, and full-cycle development, administration, and optimization.
 **Migration:** moved the live site (6 GB, thousands of listing photos) to a new host before the old contract expired. The copy was built on the new host while the public site kept running; the final sync took about 1.5 hours of maintenance mode. DNS switched at record level only, SPF, DKIM and DMARC pass on real headers, no data lost.
+
+---
+
+### 🔹 **Rate Shop Live – Custom WordPress Theme with Lead Tracking and Conversions API**
+**Live site:** https://rateshoplive.com/
+A life insurance rate comparison service that pays for its traffic, so every lead has to be attributable. Custom theme from Figma with a multi-step quote form, a personalized video review flow and Calendly in an on-site popup. Three dataLayer events (form_start, generate_lead, booking_confirmed) feed Google Ads, while Meta Pixel and server-side Conversions API share one event_id. 23 carrier logos import through a WP-CLI command and an admin button, since the host has no SSH. Content is managed through 8 ACF options pages.
 
 ---
 
@@ -44,13 +62,6 @@ Custom WordPress multi-page website with a blog for a US and Canada car shipper,
 
 ---
 
-### 🔹 **LDVILL – Custom WordPress Theme in 5 Languages (Figma → HTML → WP)**
-**Repo:** [ldvill-wordpress-project](https://github.com/Pavlo-Honcharenko/ldvill-wordpress-project)
-**Live site:** https://ldvill.com/
-A custom WordPress theme for an electrical services company in Budapest, developed from a full Figma design. Includes ACF integration, custom PHP templates, animations, a fully responsive layout, and 5 languages on Polylang (Hungarian, English, German, Russian, Ukrainian), plus Contact Form 7.
-
----
-
 ### 🔹 **ConnectABA – ADA & WCAG Accessible WordPress Website**
 **Repo:** [connectaba-wordpress-project](https://github.com/Pavlo-Honcharenko/connectaba-wordpress-project)
 **Live site:** https://connectaba.org/
@@ -58,39 +69,26 @@ An accessibility-focused WordPress website where ADA and WCAG 2.1/2.2 compliance
 
 ---
 
-### 🔹 **KYTSIAWEB – Custom WordPress Theme (Figma → HTML → WP)**
-**Repo:** [kytsiaweb-wordpress-project](https://github.com/Pavlo-Honcharenko/kytsiaweb-wordpress-project)
-Custom WordPress website for a web design agency, built from Figma with pixel-perfect front-end development, a category filter, animations, and ACF-powered dynamic content.
-
----
-
-### 🔹 **HasibPay – Multilingual Landing Page (EN + AR)**
-**Repo:** [hasibpay-wordpress-project](https://github.com/Pavlo-Honcharenko/hasibpay-wordpress-project)
-A multilingual landing page built from Figma on the Astra theme and Gutenberg blocks. Includes RTL layout for Arabic, Polylang setup and Contact Form 7. Before work started, I advised against GoDaddy hosting because of email delivery issues, and the client picked IONOS from my shortlist. After review on my staging server, I connected the GoDaddy domain to IONOS and launched the same evening, then set up new mailboxes and confirmed form emails arrive.
-
----
-
 ## 🧰 More Client Work
 
-### Website Maintenance
-
-#### 🔹 **Stargo Facility Services – Bug Fixes on a Live Site**
-**Live site:** https://stargo-fs.de/
-A German cleaning company had four defects on a live WordPress site with a custom theme and real traffic. I cloned it from a full backup and traced each issue in the source. The carousel bug was real: a mousemove handler placed the prev and next buttons at the same coordinates, so Next permanently covered Prev. Also a logo with no retina source, a hero missing its trust block, and an image losing half its height to a fixed container. All four fixed and verified on desktop and mobile in one session; rated 5 stars, and a larger project followed.
-
 ### Custom WordPress Builds
-
-#### 🔹 **Hive Builders – Custom WordPress Theme from Figma for a Construction Company**
-**Live site:** https://hivebuilders.com/
-A commercial general contractor in San Jose, California, wanted their site on WordPress rather than locked into a no-code platform. Custom theme from scratch, no template and no jQuery: semantic HTML, BEM SCSS, a video hero, smooth-scroll navigation, a hexagon grid for 8 construction sectors and 6 service cards. Every text block is a labeled custom field. Mobile was built from its own Figma frame, not a stacked desktop. Yoast configured, deployed with domain and SSL.
 
 #### 🔹 **Stargo – Figma to WordPress Landing Page for Google Ads (10 Sections)**
 **Live site:** https://stargo-fs.de/bueroreinigung-stuttgart/
 A landing page for a Google Ads campaign, built inside the client's existing custom theme rather than beside it. 10 sections from Figma: hero with company stats and trust logos, project cases, team, a contractor-switching process, fixed-price explainer, property types, service categories, ticket system and FAQ. The page reuses the site's exact visual language; mobile is its own layout, and every interaction works without hover.
 
-#### 🔹 **Rate Shop Live – Custom WordPress Theme with Lead Tracking and Conversions API**
-**Live site:** https://rateshoplive.com/
-A life insurance rate comparison service that pays for its traffic, so every lead has to be attributable. Custom theme from Figma with a multi-step quote form, a personalized video review flow and Calendly in an on-site popup. Three dataLayer events (form_start, generate_lead, booking_confirmed) feed Google Ads, while Meta Pixel and server-side Conversions API share one event_id. 23 carrier logos import through a WP-CLI command and an admin button, since the host has no SSH. Content is managed through 8 ACF options pages.
+#### 🔹 **LDVILL – Custom WordPress Theme in 5 Languages (Figma → HTML → WP)**
+**Repo:** [ldvill-wordpress-project](https://github.com/Pavlo-Honcharenko/ldvill-wordpress-project)
+**Live site:** https://ldvill.com/
+A custom WordPress theme for an electrical services company in Budapest, developed from a full Figma design. Includes ACF integration, custom PHP templates, animations, a fully responsive layout, and 5 languages on Polylang (Hungarian, English, German, Russian, Ukrainian), plus Contact Form 7.
+
+#### 🔹 **KYTSIAWEB – Custom WordPress Theme (Figma → HTML → WP)**
+**Repo:** [kytsiaweb-wordpress-project](https://github.com/Pavlo-Honcharenko/kytsiaweb-wordpress-project)
+Custom WordPress website for a web design agency, built from Figma with pixel-perfect front-end development, a category filter, animations, and ACF-powered dynamic content.
+
+#### 🔹 **HasibPay – Multilingual Landing Page (EN + AR)**
+**Repo:** [hasibpay-wordpress-project](https://github.com/Pavlo-Honcharenko/hasibpay-wordpress-project)
+A multilingual landing page built from Figma on the Astra theme and Gutenberg blocks. Includes RTL layout for Arabic, Polylang setup and Contact Form 7. Before work started, I advised against GoDaddy hosting because of email delivery issues, and the client picked IONOS from my shortlist. After review on my staging server, I connected the GoDaddy domain to IONOS and launched the same evening, then set up new mailboxes and confirmed form emails arrive.
 
 #### 🔹 **Nine Champagne 9 – Redesign of a Live WooCommerce Store**
 **Live site:** https://9champagne.pro/
