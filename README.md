@@ -29,12 +29,14 @@ This portfolio includes selected commercial projects delivered for clients in th
 ## 🏆 Featured Projects
 
 ### 🔹 **Stargo Facility Services – Bug Fixes on a Live Site**
+**Repo:** [stargo-wordpress-project](https://github.com/Pavlo-Honcharenko/stargo-wordpress-project)
 **Live site:** https://stargo-fs.de/
 A German cleaning company had four defects on a live WordPress site with a custom theme and real traffic. I cloned it from a full backup and traced each issue in the source. The carousel bug was real: a mousemove handler placed the prev and next buttons at the same coordinates, so Next permanently covered Prev. Also a logo with no retina source, a hero missing its trust block, and an image losing half its height to a fixed container. All four fixed and verified on desktop and mobile in one session; rated 5 stars, and a larger project followed.
 
 ---
 
 ### 🔹 **Hive Builders – Custom WordPress Theme from Figma for a Construction Company**
+**Repo:** [hivebuilders-wordpress-project](https://github.com/Pavlo-Honcharenko/hivebuilders-wordpress-project)
 **Live site:** https://hivebuilders.com/
 A commercial general contractor in San Jose, California, wanted their site on WordPress rather than locked into a no-code platform. Custom theme from scratch, no template and no jQuery: semantic HTML, BEM SCSS, a video hero, smooth-scroll navigation, a hexagon grid for 8 construction sectors and 6 service cards. Every text block is a labeled custom field. Mobile was built from its own Figma frame, not a stacked desktop. Yoast configured, deployed with domain and SSL.
 
@@ -49,6 +51,7 @@ Real estate classifieds platform built on WordPress and ListingHive, featuring a
 ---
 
 ### 🔹 **Rate Shop Live – Custom WordPress Theme with Lead Tracking and Conversions API**
+**Repo:** [rateshoplive-wordpress-project](https://github.com/Pavlo-Honcharenko/rateshoplive-wordpress-project)
 **Live site:** https://rateshoplive.com/
 A life insurance rate comparison service that pays for its traffic, so every lead has to be attributable. Custom theme from Figma with a multi-step quote form, a personalized video review flow and Calendly in an on-site popup. Three dataLayer events (form_start, generate_lead, booking_confirmed) feed Google Ads, while Meta Pixel and server-side Conversions API share one event_id. 23 carrier logos import through a WP-CLI command and an admin button, since the host has no SSH. Content is managed through 8 ACF options pages.
 
@@ -74,6 +77,7 @@ An accessibility-focused WordPress website where ADA and WCAG 2.1/2.2 compliance
 ### Custom WordPress Builds
 
 #### 🔹 **Stargo – Figma to WordPress Landing Page for Google Ads (10 Sections)**
+**Repo:** [stargo-wordpress-project](https://github.com/Pavlo-Honcharenko/stargo-wordpress-project)
 **Live site:** https://stargo-fs.de/bueroreinigung-stuttgart/
 A landing page for a Google Ads campaign, built inside the client's existing custom theme rather than beside it. 10 sections from Figma: hero with company stats and trust logos, project cases, team, a contractor-switching process, fixed-price explainer, property types, service categories, ticket system and FAQ. The page reuses the site's exact visual language; mobile is its own layout, and every interaction works without hover.
 
