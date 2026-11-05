@@ -68,7 +68,7 @@ Custom WordPress multi-page website with a blog for a US and Canada car shipper,
 ### 🔹 **ConnectABA – ADA & WCAG Accessible WordPress Website**
 **Repo:** [connectaba-wordpress-project](https://github.com/Pavlo-Honcharenko/connectaba-wordpress-project)
 **Live site:** https://connectaba.org/
-An accessibility-focused WordPress website where ADA and WCAG 2.1/2.2 compliance was a mandatory client requirement. Figma → HTML/SCSS/JS → custom theme with ACF Pro and Contact Form 7, plus advice on choosing the hosting provider.
+An accessibility-focused WordPress website where ADA and WCAG 2.1/2.2 compliance was a mandatory client requirement. Figma → HTML/SCSS/JS → custom theme with ACF and Contact Form 7, plus advice on choosing the hosting provider.
 
 ---
 
